@@ -1,16 +1,5 @@
 # Ravel
 
-#### STATUS: UNDER DEVELOPMENT
-
-### RavelCMS Ver 1 is getting ready to be released.
-- I am planning to change the whole design of the admin panel soon.
-- Here is a preview of the new design.
-![Screenshot](http://screencloud.net/img/screenshots/4a01c549ab3d3854e26eba0888fc2e2d.png)
-
-## CMS Package for Laravel 4
-
-![Screenshot](http://screencloud.net/img/screenshots/307e79230eeb5085677d7fc260dfc05f.png)
-
 ### How to Install
 
 - Install L4 App from Github ( Watch this if you need to know how : http://net.tutsplus.com/tutorials/php/how-to-setup-laravel-4/)
